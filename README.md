@@ -4,9 +4,9 @@ This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-
 <ins>List Book Preview</ins>
 ![Project Preview](/images/ListOfBooks.PNG)
 <ins>Add Book Preview</ins>
-![Project Preview](/images/AddBook.png)
+![Project Preview](/images/AddBook.PNG)
 <ins>Update Book Preview</ins>
-![Project Preview](/images/UpdateBook.png)
+![Project Preview](/images/UpdateBook.PNG)
 
 ## Available Scripts
 
