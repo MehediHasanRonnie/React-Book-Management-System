@@ -19,7 +19,7 @@ Instal All dependencies in this project
 ### `npm run dev`
 
 Runs the app in the development mode.<br />
-Open ([http://127.0.0.1:5173](http://localhost:5173/)) to view it in the browser.
+Open [([http://127.0.0.1:5173](http://localhost:5173/))](https://bookmanagement203.netlify.app/) to view it in the browser.
 
 ### Link
 
